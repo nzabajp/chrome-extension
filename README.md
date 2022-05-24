@@ -22,8 +22,8 @@ The purpose of this extension is to help the user store url's of sites of the de
 ## Contact Me
 <a href="https://github.com/nzabajp" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" ></a>
 
-<a href="linkedin.com/in/nzabajp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://linkedin.com/in/nzabajp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 <a href="mailto: nzabajp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
 
-<a href="tel: +27633165881" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
+<a href="https://wa.me/message/LJ2SLRYIRXBQG1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" ></a>
